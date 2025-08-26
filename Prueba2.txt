@@ -1,0 +1,3 @@
+nombre de usaurio: xxxxxxx
+
+correo electrónico del usuario:  xxxx@xxx.com
